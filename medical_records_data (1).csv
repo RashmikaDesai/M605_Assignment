@@ -1,0 +1,101 @@
+RecordID,PatientID,Date,Diagnosis,Treatment
+1,6,2025-11-19,Hypertension,Prescribed medication for blood pressure
+2,67,2025-05-18,Cold,"Rest, fluids, and over-the-counter medication"
+3,4,2025-08-08,Asthma,Inhalers and bronchodilators
+4,30,2025-04-20,Flu,Antiviral medication and rest
+5,69,2025-04-15,Flu,Antiviral medication and rest
+6,99,2025-08-31,Diabetes,Insulin therapy and lifestyle changes
+7,64,2025-08-06,Cold,"Rest, fluids, and over-the-counter medication"
+8,58,2025-09-05,Diabetes,Insulin therapy and lifestyle changes
+9,81,2025-07-20,Asthma,Inhalers and bronchodilators
+10,51,2025-02-09,Asthma,Inhalers and bronchodilators
+11,73,2025-03-31,Asthma,Inhalers and bronchodilators
+12,21,2025-06-07,Hypertension,Prescribed medication for blood pressure
+13,15,2025-03-02,Hypertension,Prescribed medication for blood pressure
+14,17,2025-12-02,Asthma,Inhalers and bronchodilators
+15,83,2025-09-09,Flu,Antiviral medication and rest
+16,68,2025-10-07,Flu,Antiviral medication and rest
+17,43,2025-01-15,Cold,"Rest, fluids, and over-the-counter medication"
+18,33,2025-06-28,Flu,Antiviral medication and rest
+19,97,2025-04-06,Asthma,Inhalers and bronchodilators
+20,96,2025-10-03,Asthma,Inhalers and bronchodilators
+21,63,2025-09-25,Asthma,Inhalers and bronchodilators
+22,66,2025-03-19,Cold,"Rest, fluids, and over-the-counter medication"
+23,3,2025-06-08,Cold,"Rest, fluids, and over-the-counter medication"
+24,54,2025-11-19,Diabetes,Insulin therapy and lifestyle changes
+25,21,2025-09-10,Diabetes,Insulin therapy and lifestyle changes
+26,58,2025-10-24,Flu,Antiviral medication and rest
+27,48,2025-05-04,Hypertension,Prescribed medication for blood pressure
+28,73,2025-03-28,Diabetes,Insulin therapy and lifestyle changes
+29,70,2025-05-31,Asthma,Inhalers and bronchodilators
+30,87,2025-02-06,Asthma,Inhalers and bronchodilators
+31,93,2025-01-23,Flu,Antiviral medication and rest
+32,55,2025-04-02,Diabetes,Insulin therapy and lifestyle changes
+33,1,2025-07-15,Flu,Antiviral medication and rest
+34,8,2025-05-09,Cold,"Rest, fluids, and over-the-counter medication"
+35,11,2025-05-11,Flu,Antiviral medication and rest
+36,46,2025-01-18,Flu,Antiviral medication and rest
+37,58,2025-12-06,Asthma,Inhalers and bronchodilators
+38,32,2025-01-24,Diabetes,Insulin therapy and lifestyle changes
+39,69,2025-02-11,Cold,"Rest, fluids, and over-the-counter medication"
+40,35,2025-03-29,Hypertension,Prescribed medication for blood pressure
+41,77,2025-03-02,Hypertension,Prescribed medication for blood pressure
+42,1,2025-08-24,Diabetes,Insulin therapy and lifestyle changes
+43,10,2025-05-26,Cold,"Rest, fluids, and over-the-counter medication"
+44,17,2025-01-01,Flu,Antiviral medication and rest
+45,25,2025-10-09,Asthma,Inhalers and bronchodilators
+46,18,2025-01-08,Asthma,Inhalers and bronchodilators
+47,56,2025-11-03,Flu,Antiviral medication and rest
+48,17,2025-12-05,Cold,"Rest, fluids, and over-the-counter medication"
+49,4,2025-05-04,Flu,Antiviral medication and rest
+50,39,2025-06-22,Asthma,Inhalers and bronchodilators
+51,14,2025-05-18,Hypertension,Prescribed medication for blood pressure
+52,88,2025-01-22,Diabetes,Insulin therapy and lifestyle changes
+53,71,2025-07-15,Cold,"Rest, fluids, and over-the-counter medication"
+54,58,2025-11-01,Hypertension,Prescribed medication for blood pressure
+55,75,2025-03-10,Diabetes,Insulin therapy and lifestyle changes
+56,88,2025-05-13,Hypertension,Prescribed medication for blood pressure
+57,27,2025-04-06,Diabetes,Insulin therapy and lifestyle changes
+58,47,2025-07-24,Hypertension,Prescribed medication for blood pressure
+59,11,2025-11-15,Asthma,Inhalers and bronchodilators
+60,5,2025-02-07,Cold,"Rest, fluids, and over-the-counter medication"
+61,7,2025-06-14,Hypertension,Prescribed medication for blood pressure
+62,83,2025-11-18,Cold,"Rest, fluids, and over-the-counter medication"
+63,100,2025-11-22,Hypertension,Prescribed medication for blood pressure
+64,76,2025-11-21,Hypertension,Prescribed medication for blood pressure
+65,99,2025-06-16,Flu,Antiviral medication and rest
+66,7,2025-06-10,Diabetes,Insulin therapy and lifestyle changes
+67,57,2025-04-24,Flu,Antiviral medication and rest
+68,93,2025-03-17,Cold,"Rest, fluids, and over-the-counter medication"
+69,74,2025-04-27,Flu,Antiviral medication and rest
+70,16,2025-07-15,Cold,"Rest, fluids, and over-the-counter medication"
+71,84,2025-09-30,Hypertension,Prescribed medication for blood pressure
+72,82,2025-08-14,Diabetes,Insulin therapy and lifestyle changes
+73,37,2025-03-07,Diabetes,Insulin therapy and lifestyle changes
+74,41,2025-07-10,Diabetes,Insulin therapy and lifestyle changes
+75,91,2025-04-06,Hypertension,Prescribed medication for blood pressure
+76,13,2025-02-07,Diabetes,Insulin therapy and lifestyle changes
+77,100,2025-01-24,Diabetes,Insulin therapy and lifestyle changes
+78,78,2025-08-04,Hypertension,Prescribed medication for blood pressure
+79,24,2025-09-07,Cold,"Rest, fluids, and over-the-counter medication"
+80,99,2025-07-24,Cold,"Rest, fluids, and over-the-counter medication"
+81,63,2025-05-08,Cold,"Rest, fluids, and over-the-counter medication"
+82,32,2025-10-11,Hypertension,Prescribed medication for blood pressure
+83,68,2025-07-08,Cold,"Rest, fluids, and over-the-counter medication"
+84,88,2025-07-25,Asthma,Inhalers and bronchodilators
+85,20,2025-02-07,Cold,"Rest, fluids, and over-the-counter medication"
+86,43,2025-10-29,Asthma,Inhalers and bronchodilators
+87,35,2025-03-22,Diabetes,Insulin therapy and lifestyle changes
+88,43,2025-04-11,Flu,Antiviral medication and rest
+89,90,2025-07-15,Flu,Antiviral medication and rest
+90,6,2025-03-08,Asthma,Inhalers and bronchodilators
+91,81,2025-07-01,Hypertension,Prescribed medication for blood pressure
+92,34,2025-02-25,Hypertension,Prescribed medication for blood pressure
+93,27,2025-05-22,Hypertension,Prescribed medication for blood pressure
+94,49,2025-05-29,Cold,"Rest, fluids, and over-the-counter medication"
+95,18,2025-12-08,Cold,"Rest, fluids, and over-the-counter medication"
+96,38,2025-04-13,Diabetes,Insulin therapy and lifestyle changes
+97,63,2025-09-03,Flu,Antiviral medication and rest
+98,94,2025-07-25,Asthma,Inhalers and bronchodilators
+99,74,2025-04-16,Flu,Antiviral medication and rest
+100,25,2025-11-06,Cold,"Rest, fluids, and over-the-counter medication"
